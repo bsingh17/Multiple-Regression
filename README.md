@@ -1,1 +1,1 @@
-# Multiple-Regression
+# Polynomial-Regression
